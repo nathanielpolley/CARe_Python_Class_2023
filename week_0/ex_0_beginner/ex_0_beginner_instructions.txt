@@ -11,3 +11,32 @@ Navigating GitHub and Pycharm Interfaces and Self Introduction:
     and thermostats are embedded computers as well!
 - Commit and push changes to the branch of this working directory on your GitHub account using instructions provided
     on email
+
+ C:\Users\Teaan\PycharmProjects\CARe_Python_Class_2023\venv\Scripts\python.exe C:\Users\Teaan\PycharmProjects\CARe_Python_Class_2023\week_0\ex_0_beginner\ex_0_beginner_runfile.py
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+My name is Isabella and I am from sunny South Africa! I have a BSc in Human Physiology, Genetics, and Psychology, as well as a BSc (Hons) and MSc in Medical Criminalistics from the University of Pretoria. I want to learn Python so that I can diversify my skill set and broaden my career opportunities in the biomedical field.
+
+I genuinely cannot remember a time that I have ever been without a computer. Whether it is a cellphone, or just a microwave, I have always had some type of computer on hand!
+
+Process finished with exit code 0
