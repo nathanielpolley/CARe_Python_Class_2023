@@ -1,0 +1,5 @@
+import this
+
+print("TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+
+print("TYPE YOUR RESPONSE TO PROMPT 2 HERE")
