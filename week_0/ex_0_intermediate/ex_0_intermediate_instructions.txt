@@ -1,0 +1,9 @@
+Intermediate Homework Assignments (1.5 points):
+
+1. Microbial Growth Rate Calculator (Variables and Input/Output):
+
+- Write a Python program that calculates the growth rate of a microbial culture based on user input for initial
+    and final cell counts and the time elapsed.
+- Prompt the user to input the initial count, final count, and time.
+- Calculate and display the growth rate using the formula: Growth Rate = (ln(final count) - ln(initial count)) / time.
+- Ensure that the program handles invalid input gracefully.

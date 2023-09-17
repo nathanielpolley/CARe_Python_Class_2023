@@ -1,0 +1,10 @@
+Advanced Homework Assignments (2 points):
+
+1. DNA Sequence Analysis (Variables and Data Types):
+
+-Develop a Python script for analyzing DNA sequences.
+-Prompt the user to input a DNA sequence as a string.
+-Calculate and display the sequence length, the number of adenine (A), cytosine (C), guanine (G),
+    and thymine (T) bases, and the GC content.
+-Implement error handling to check if the input is a valid DNA sequence (contains only A, C, G, and T).
+

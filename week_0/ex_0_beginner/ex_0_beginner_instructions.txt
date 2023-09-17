@@ -1,0 +1,13 @@
+Beginner Homework Assignments (0.5 points):
+
+Navigating GitHub and Pycharm Interfaces and Self Introduction:
+
+- Set up personal GitHub account and download/install PyCharm and Python3 using instructions sent via email.
+    Branch CARe_Python_Class_2023 repository to your
+    GitHub account and clone the repository to your local PyCharm directory.
+- Provide responses for the following prompts inside of the quotes provided
+- Prompt 1 - Type a brief introduction of yourself and your career goal(s) for learning a programming language
+- Prompt 2 - Recall the last place/time you were without a computer available. Keep in mind that both microwave ovens
+    and thermostats are embedded computers as well!
+- Commit and push changes to the branch of this working directory on your GitHub account using instructions provided
+    on email
