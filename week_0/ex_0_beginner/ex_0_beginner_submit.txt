@@ -1,1 +1,33 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
+C:\Users\leoad\AppData\Local\Programs\Python\Python39\python.exe C:\Users\leoad\PycharmProjects\CARe_Python_Class_2023\week_0\ex_0_beginner\ex_0_beginner_runfile.py
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+My name is Léo, I'm 22 and after struggling being a CARe master student (yeah coding part) I'm a basketball addict and I love food.
+I would love to learn how to correctly use python as I loved coding plugins on Minecraft 10 years ago.
+Plus, It would help my biologist career as I'm doing an internship at Mitchell Lazar Lab at UPenn and I'm working on circadian rhythms.
+It generates so much data that adding machine learning could relief my fingers from copy/paste in excel files...
+Well, I'm really enthusiast learning python the proper way and I'll do my best to succeed!
+
+Well with that being said I guess I can't name any place and date
+
+Process finished with exit code 0
