@@ -7,3 +7,4 @@ Intermediate Homework Assignments (1.5 points):
 - Prompt the user to input the initial count, final count, and time.
 - Calculate and display the growth rate using the formula: Growth Rate = (ln(final count) - ln(initial count)) / time.
 - Ensure that the program handles invalid input gracefully.
+
