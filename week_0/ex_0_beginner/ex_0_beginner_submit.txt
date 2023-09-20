@@ -1,1 +1,28 @@
-Copy and paste output of ex_0_beginner_runfile.py below:
+C:\Users\Fey-D\AppData\Local\Programs\Python\Python311-32\python.exe C:\Users\Fey-D\PycharmProjects\CARe_Python_Class_2023\week_0\ex_0_beginner\ex_0_beginner_runfile.py
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+Hi, I'm Charles and would like to be a scientist, I'm not very inspired at this time of the night,so I will just write something like that to fill the assignment, I hope you won't read this, because it is very late, and we all need to sleep! Good night !
+
+I was hiking in the Pyrenees in the summer, so no machines, only donkeys,cows and beautiful sunshine
+
+Process finished with exit code 0
