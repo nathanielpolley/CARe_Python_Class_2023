@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"hello, I am Sophie, a student in the CARe program. I would like to learn a programming language to acquire as many science skills as possible and also because I am a very curious person")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"I think the last time that I was without computer available is when I was hiking in the mountains with my family")
