@@ -1,4 +1,5 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
+
 /usr/bin/python3 /Users/dimitrabozoglou/PycharmProjects/CARe_Python_Class_2023/week_0/ex_0_beginner/ex_0_beginner_runfile.py
 The Zen of Python, by Tim Peters
 
