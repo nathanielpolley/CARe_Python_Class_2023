@@ -1,1 +1,3 @@
-Copy and paste output of ex_0_beginner_runfile.py below:
+Copy and paste output of ex_0_beginner_run file.py below:
+print("\n"+"Hello Nathaniel, I'm Matéo a first year CARe student. I'm a French student from Bordeaux !!! (really pretty city by the way).\nI don't really have a precise goal for your courses, I just want to improve globally my skills because I'll like to specialised in Imaging.")
+print("\n"+"Never I think, I'm just young... technology is everywhere nowadays")
