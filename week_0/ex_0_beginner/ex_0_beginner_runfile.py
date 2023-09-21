@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+" I am a Maureen, student in second year of the CARe master's program and I aspire to become a researcher in oncology. In this field, programming is essential. Indeed, i'm already facing the urge to learn how to code since biology uses a lot of different software to treat the data.  ")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+" NEVER, always with my phone.")
