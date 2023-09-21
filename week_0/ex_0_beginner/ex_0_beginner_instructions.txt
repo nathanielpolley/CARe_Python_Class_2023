@@ -11,3 +11,5 @@ Navigating GitHub and Pycharm Interfaces and Self Introduction:
     and thermostats are embedded computers as well!
 - Commit and push changes to the branch of this working directory on your GitHub account using instructions provided
     on email
+
+
