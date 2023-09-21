@@ -1,3 +1,5 @@
+Copy and paste output of ex_0_beginner_runfile.py below:
+
 import this
 
 print("\n"+"PROMPT 1")
