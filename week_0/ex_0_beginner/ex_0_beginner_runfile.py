@@ -1,5 +1,3 @@
-import this
+print("\n" + "Im Mylene, a student in pharmacy. I think these courses will help me to do bioinformatics in research.")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
-
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n" + "During a hike in the Pyrenees")
