@@ -25,4 +25,3 @@ I am student in CARe's master. I want to learn a programming language to analyze
 
 mountains
 
-Process finished with exit code 0
