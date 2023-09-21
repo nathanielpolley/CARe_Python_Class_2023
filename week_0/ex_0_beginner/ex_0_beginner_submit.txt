@@ -1,5 +1,6 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
-
+C:\Users\loulo\PycharmProjects\CARe_Python_Class_2023\venv\Scripts\python.exe C:\Users\loulo\PycharmProjects\CARe_Python_Class_2023\week_0\ex_0_beginner\ex_0_beginner_runfile.py
+The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -24,4 +25,6 @@ Namespaces are one honking great idea -- let's do more of those!
 I am student in CARe's master. I want to learn a programming language to analyze a huge amount of data
 
 mountains
+
+Process finished with exit code 0
 
