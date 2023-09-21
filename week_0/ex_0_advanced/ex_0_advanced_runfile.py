@@ -17,17 +17,11 @@ nC = 0
 for i in sequence:
     if i == "A":
         nA +=1
-    else:
-        pass
-    if i == "T":
+    elif i =="T":
         nT +=1
-    else:
-        pass
-    if i == "G":
-        nG +=1
-    else:
-        pass
-    if i == "C":
+    elif i == "G":
+        nG += 1
+    elif i == "C":
         nC +=1
 GC_content = nG + nC
 GC = ((GC_content)/sequence_lenght)
