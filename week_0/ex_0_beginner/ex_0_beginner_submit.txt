@@ -22,7 +22,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
- I am a Maureen, student in second year of the CARe master's program and I aspire to become a researcher in oncology. In this field, programming is essential. Indeed, i'm already facing the urge to learn how to code since biology uses a lot of different software to treat the data.
+ I am a Maureen, a student in second year of the CARe master's program and I aspire to become a researcher in oncology. In this field, programming is essential. Indeed, i'm already facing the urge to learn how to code since biology uses a lot of different software to treat the data.
 
  NEVER, always with my phone.
 
