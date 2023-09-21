@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"PROMPT 1")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"PROMPT 2")
