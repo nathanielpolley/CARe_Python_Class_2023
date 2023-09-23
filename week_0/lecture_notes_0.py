@@ -125,7 +125,7 @@ else:
 # "not" operator
 name = "Maxence"
 
-if name not "Anna":
+if not (name == "Anna"):
     print("You are not Anna")
 else:
     print("You are Anna")
