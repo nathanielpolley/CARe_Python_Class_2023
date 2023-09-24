@@ -1,1 +1,8 @@
 Copy and paste output of ex_0_beginner_runfile.py below:
+/usr/bin/python3 /Users/mylene/PycharmProjects/CARe_Python_Class_2023/week_0/ex_0_beginner/ex_0_beginner_runfile.py
+
+Im Mylene, student in pharmacy. These courses will help me to do bioinformatics in research.
+
+During a hike in the Pyrenees
+
+Process finished with exit code 0
