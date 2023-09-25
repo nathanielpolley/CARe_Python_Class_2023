@@ -76,6 +76,20 @@ elif x == 5:
 else:
     print("x is less than 5")
 
+# Nested conditional statement
+x = 10
+y = 5
+
+if x > 5:
+    if y > 3:
+        print("Both x and y are greater than 5 and 3, respectively.")
+    else:
+        print("x is greater than 5, but y is not greater than 3.")
+else:
+    print("x is not greater than 5.")
+
+print("This is outside the nested conditional statement.")
+
 # Logical operators
 age = 25
 is_student = True
@@ -86,7 +100,7 @@ if age >= 18 and is_student:
 else:
     print("You are not an adult student.")
 
-#Bitwise equivalent (AND)
+#Bitwise equivalent (AND '&')
 if age >= 18 & is_student:
     print("You are an adult student.")
 else:
@@ -101,7 +115,7 @@ if x > 7 or y < 3:
 else:
     print("Neither condition is true.")
 
-#Bitwise equivalent (OR - inclusive OR)
+#Bitwise equivalent (OR - inclusive OR '|')
 if x > 7 | y < 3:
     print("At least one of the conditions is true.")
 else:
@@ -111,12 +125,13 @@ else:
 x = True
 y = False
 
+#Multiple conditional statement
 if (x and not y) or (not x and y):
     print("Exactly one of x or y is true (XOR).")
 else:
     print("Neither or both x and y are true.")
 
-#Bitwise equivalent (XOR - exclusive OR)
+#Bitwise equivalent (XOR - exclusive OR '^') (with single symbol)
 if x ^ y:
     print("Exactly one of x or y is true (XOR).")
 else:
@@ -130,7 +145,7 @@ if not (name == "Anna"):
 else:
     print("You are Anna")
     
-#Bitwise equivalent (NOT)
+#Bitwise equivalent (NOT '!=')
 if name != "Anna":
     print("You are not Anna")
 else:
