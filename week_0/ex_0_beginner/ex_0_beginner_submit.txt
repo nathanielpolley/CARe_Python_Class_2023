@@ -23,3 +23,6 @@ hello, I a  m Sophie, a student in the CARe program. I would like to learn a pro
 I think the last time that I was without computer available is when I was hiking in the mountains with my family during holidays
 
 Process finished with exit code 0
+
+
+
