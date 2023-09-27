@@ -9,23 +9,14 @@ while True:
             break
     if valid:
         break
-sequence_lenght = int(len(sequence))
-nA = 0
-nT = 0
-nG = 0
-nC = 0
-for i in sequence:
-    if i == "A":
-        nA +=1
-    elif i =="T":
-        nT +=1
-    elif i == "G":
-        nG += 1
-    elif i == "C":
-        nC +=1
+sequence_length = int(len(sequence))
+nA = sequence.count("A")
+nT = sequence.count("T")
+nG = sequence.count("G")
+nC = sequence.count("C")
 GC_content = nG + nC
-GC = ((GC_content)/sequence_lenght)
-print("sequence lenght =" +str(sequence_lenght))
+GC = ((GC_content)/sequence_length)
+print("sequence length =" +str(sequence_length))
 print("number of A: " +str(nA))
 print("number of T: " +str(nT))
 print("number of G: " +str(nG))

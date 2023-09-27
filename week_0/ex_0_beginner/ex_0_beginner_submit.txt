@@ -1,6 +1,3 @@
-Copy and paste output of ex_0_beginner_runfile.py below:
-1- Hi, my name is ilias SIMON, i'm a M2 student following the CARe graduate program. I wish to persue my career in
-biology with a phd and i found out how much developing and coding was important for several life-changing
-applications in this field. Thereby i wish to get better in this by learning python.
-
-2-
+1- Hi, my name is ilias SIMON, i'm a M2 student following the CARe graduate program.
+I wish to persue my career in biology with a phd and i found out how much developing and coding was important for several life-changing applications in this field.
+2- never i guess x)
