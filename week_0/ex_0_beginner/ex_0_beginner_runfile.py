@@ -1,5 +1,6 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"I am Silvia, research engineer in CRCT. I try to learn Python to easly analyse and visualise data")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"Long time ago")
+
