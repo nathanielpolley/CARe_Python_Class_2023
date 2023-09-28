@@ -31,10 +31,9 @@ text = "Python is fun!"
 # Indexing and slicing
 first_char = text[0]
 substring = text[7:10]
-lastLetters = text[::8]
 
 # Display results
-print(first_char, substring, lastLetters)
+print(first_char, substring)
 
 # String methods
 text = "Python is fun!"
