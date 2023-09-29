@@ -1,0 +1,15 @@
+Intermediate Homework Assignments week 1 (1.5 points):
+
+Apply intermediate Python dictionary iteration concepts to analyze microbial diversity data:
+
+-Create a Python script that defines a dictionary where the keys represent different microbial species
+        (e.g., "Bacteria", "Archaea", "Fungi") and the values represent the number of samples collected for each species
+        (e.g., {"Bacteria": 20, "Archaea": 15, "Fungi": 10}).
+-Implement a loop to calculate and print the total number of samples collected across all species.
+-Use a list comprehension to create a list of microbial species with sample counts greater than 15.
+-Create a function that takes the species dictionary and a new species name as input. The function should add the new
+        species to the dictionary with an initial count of 1 if the species is not already present. If the species is
+        already in the dictionary, increase its count by 1.
+-Implement a while loop to continuously prompt the user for new species names to add to the dictionary until they
+        choose to stop.it the Python runfile with comments explaining each step and the results of your calculations
+        in the submit file.
