@@ -7,4 +7,4 @@ if  finalcount > initialcount and initialcount.isdigit() and finalcount.isdigit(
     GrowthRate = math.log(int(finalcount)) - math.log(int(initialcount)) / int(time)
     print (str(GrowthRate))
 else:
-    print("invalidinput")
+    print("invalidinput"
