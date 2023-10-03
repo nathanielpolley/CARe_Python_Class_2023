@@ -14,6 +14,7 @@ def calculate_growth_rate() :
     except ValueError :
         print("Invalid input. You need a number of cells > or = to 0")
 
+
 calculate_growth_rate()
 
 
