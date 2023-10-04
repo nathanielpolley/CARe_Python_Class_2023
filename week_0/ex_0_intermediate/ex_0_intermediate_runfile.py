@@ -10,7 +10,7 @@ def calculate_growth_rate() :
             print("only positive numbers are allowed and initial value must be less than the final one")
         else :
             growth_rate = (math.log(Cf)-math.log(C0))/T
-            print(f"Growth rate is : '{growth_rate}")
+            print(f"Growth rate is : {growth_rate}")
 
     except ValueError :
             print("Invalid input. You need a number of cells > or = to 0")
