@@ -6,13 +6,14 @@ def calculate_growth_rate() :
         Cf = int(input("Enter final count : "))
         T = int(input("Enter time : "))
 
-        if T < 0:
-            print("only positive numbers are allowed")
+        if (T <= 0) and (C0 > Cf) :
+            print("only positive numbers are allowed and initial value must be less than the final one")
         else :
             growth_rate = (math.log(Cf)-math.log(C0))/T
             print(f"Growth rate is : '{growth_rate}")
+
     except ValueError :
-        print("Invalid input. You need a number of cells > or = to 0")
+            print("Invalid input. You need a number of cells > or = to 0")
 
 
 calculate_growth_rate()
