@@ -1,0 +1,15 @@
+Beginner Homework Assignments week 1 (0.5 points):
+
+Apply basic Python list iteration concepts to analyze microbial population data:
+
+-Create a Python script that defines a list of microbial population counts (e.g., [100, 200, 150, 300, 50]) for five
+        consecutive days.
+
+-Calculate and print the following statistics using list operations and loops:
+        Average population count.
+        Maximum population count.
+        Minimum population count.
+
+-Use a for loop to iterate through the population counts and identify days when the population exceeds 200. Print out
+        the day numbers when this occurs.
+-Submit the Python runfile with comments explaining each step and the results of your calculations in the submit file.
