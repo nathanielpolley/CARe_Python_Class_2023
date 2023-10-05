@@ -8,3 +8,7 @@ Advanced Homework Assignments (2 points):
     and thymine (T) bases, and the GC content.
 -Implement error handling to check if the input is a valid DNA sequence (contains only A, C, G, and T).
 
+
+
+
+
