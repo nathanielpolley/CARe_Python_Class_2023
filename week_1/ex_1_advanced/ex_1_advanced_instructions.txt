@@ -1,0 +1,32 @@
+Advanced Homework Assignments week 1 (2 points):
+
+Handling text file input/output, dictionaries with lists as values, and advanced string manipulation:
+
+-Your colleague has for you two text files containing a list of 60 references for a manuscript, and each reference must
+        be identical. You notice that she has been searching for differences between the two files by hand, and you feel
+        bad since she has been at it all day. You try giving commands for ChatGPT to execute this task, but since they
+        have made ChatGPT dumber since its release last year in order to sell the "premium" version, ChatGPT has done
+        everything but the desired task. Now, you must write a Python script yourself in order to alleviate all suffering.
+-Read in the files references_1.txt and references_2.txt from the working directory
+-Initialize two dictionaries containing the reference number (as it appears on the file) as the key and the string of the
+        reference as the value. For simplification, please remove all whitespace (" ") within each entry.
+-Create a new dictionary named "status" enumerated 1-60 for each of the entries
+-Iterate through the two reference dictionaries using a for loop, if the strings of the references match exactly,
+        append a list containing the word ["GOOD"] to the value of the corresponding reference number key in the
+        dictionary "status". If a difference between the two references is detected, append to the dictionary a list
+        of all discontinuities as a list of strings in respect to references_1. Append to a list even if only one
+        difference exits.
+
+        Example: References_1 Line 56-"Maryhadalittlelamb", References_2 Line 56-"Jacobhadalittlegoat"
+        status["56"] -> ["Mary", "lamb"]
+
+-Write out a file named "ex_1_advanced_submit.txt" in the following format:
+        1 : GOOD
+        2 : GOOD
+        ...
+        56 : Mary, lamb
+
+-Push both the created submit file and your commented runfile to GitHub to make a pull request.
+
+-PS -- I have not done this task myself, so I am counting on YOU to come up with a good idea (as is real life).
+        Let me know if anything goes wrong in the process.

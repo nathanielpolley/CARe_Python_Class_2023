@@ -1,0 +1,63 @@
+References
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA: A Cancer Journal for Clinicians. 2021;71(3):209–49.
+2. Yang JD, Hainaut P, Gores GJ, Amadou A, Plymoth A, Roberts LR. A global view of hepatocellular carcinoma: trends, risk, prevention and management. Nature Reviews Gastroenterology & Hepatology. 2019 Oct;16(10):589–604.
+3. Wertheim JA, Petrowsky H, Saab S, Kupiec-Weglinski JW, Busuttil RW. Major Challenges Limiting Liver Transplantation in the United States. Am J Transplant. 2011 Sep;11(9):1773–84.
+4. Llovet JM, Montal R, Sia D, Finn RS. Molecular therapies and precision medicine for hepatocellular carcinoma. Nature Reviews Clinical Oncology. 2018 Oct;15(10):599–616.
+5. Calderaro J, Ziol M, Paradis V, Zucman-Rossi J. Molecular and histological correlations in liver cancer. J Hepatol. 2019 Sep;71(3):616–30.
+6. Uchiyama Y, Shibata M, Koike M, Yoshimura K, Sasaki M. Autophagy–physiology and pathophysiology. Histochem Cell Biol. 2008 Apr;129(4):407–20.
+7. Hamaï A, Codogno P. New Targets for Acetylation in Autophagy. Sci Signal. 2012 Jul 3;5(231):pe29–pe29.
+8. Lee YJ, Jang BK. The Role of Autophagy in Hepatocellular Carcinoma. Int J Mol Sci. 2015 Nov 6;16(11):26629–43.
+9. Yazdani HO, Huang H, Tsung A. Autophagy: Dual Response in the Development of Hepatocellular Carcinoma. Cells. 2019 Jan 28;8(2):91.
+10. Liu L, Liao J-Z, He X-X, Li P-Y. The role of autophagy in hepatocellular carcinoma: friend or foe. Oncotarget. 2017 Apr 18;8(34):57707–22.
+11. Aunan JR, Cho WC, Søreide K. The Biology of Aging and Cancer: A Brief Overview of Shared and Divergent Molecular Hallmarks. Aging Dis. 2017 Oct;8(5):628–42.
+12. Singh SS, Vats S, Chia AY-Q, Tan TZ, Deng S, Ong MS, et al. Dual role of autophagy in hallmarks of cancer. Oncogene. 2018 Mar;37(9):1142–58.
+13. Yun CW, Lee SH. The Roles of Autophagy in Cancer. Int J Mol Sci. 2018 Nov 5;19(11):3466.
+14. Nazio F, Bordi M, Cianfanelli V, Locatelli F, Cecconi F. Autophagy and cancer stem cells: molecular mechanisms and therapeutic applications. Cell Death Differ. 2019 Mar;26(4):690–702.
+15. Ueno T, Komatsu M. Autophagy in the liver: functions in health and disease. Nat Rev Gastroenterol Hepatol. 2017 Mar;14(3):170–84.
+16. Inami Y, Waguri S, Sakamoto A, Kouno T, Nakada K, Hino O, et al. Persistent activation of Nrf2 through p62 in hepatocellular carcinoma cells. J Cell Biol. 2011 Apr 18;193(2):275–84.
+17. Denk H, Stumptner C, Fuchsbichler A, Müller T, Farr G, Müller W, et al. Are the Mallory bodies and intracellular hyaline bodies in neoplastic and non-neoplastic hepatocytes related? J Pathol. 2006 Apr;208(5):653–61.
+18. Umemura A, He F, Taniguchi K, Nakagawa H, Yamachika S, Font-Burgada J, et al. p62, Upregulated during Preneoplasia, Induces Hepatocellular Carcinogenesis by Maintaining Survival of Stressed HCC-Initiating Cells. Cancer Cell. 2016 13;29(6):935–48.
+19. Lin C-W, Chen Y-S, Lin C-C, Lee P-H, Lo G-H, Hsu C-C, et al. Autophagy-related gene LC3 expression in tumor and liver microenvironments significantly predicts recurrence of hepatocellular carcinoma after surgical resection. Clinical and Translational Gastroenterology. 2018 Jun;9(6):e166.
+20. Chang Y, Yan W, He X, Zhang L, Li C, Huang H, et al. miR-375 Inhibits Autophagy and Reduces Viability of Hepatocellular Carcinoma Cells Under Hypoxic Conditions. Gastroenterology. 2012 Jul 1;143(1):177-187.e8.
+21. Sun K, Guo X, Zhao Q, jing Y, Kou X, Xie X, et al. Paradoxical role of autophagy in the dysplastic and tumor-forming stages of hepatocarcinoma development in rats. Cell Death Dis. 2013 Feb;4(2):e501.
+22. Hu T, Li P, Luo Z, Chen X, Zhang J, Wang C, et al. Chloroquine inhibits hepatocellular carcinoma cell growth in vitro and in vivo. Oncol Rep. 2016 Jan;35(1):43–9.
+23. Ding Z-B, Hui B, Shi Y-H, Zhou J, Peng Y-F, Gu C-Y, et al. Autophagy Activation in Hepatocellular Carcinoma Contributes to the Tolerance of Oxaliplatin via Reactive Oxygen Species Modulation. Clin Cancer Res. 2011 Oct 1;17(19):6229–38.
+24. Chen L-H, Loong C-C, Su T-L, Lee Y-J, Chu P-M, Tsai M-L, et al. Autophagy inhibition enhances apoptosis triggered by BO-1051, an N-mustard derivative, and involves the ATM signaling pathway. Biochem Pharmacol. 2011 Mar 1;81(5):594–605.
+25. Hui B, Shi Y-H, Ding Z-B, Zhou J, Gu C-Y, Peng Y-F, et al. Proteasome inhibitor interacts synergistically with autophagy inhibitor to suppress proliferation and induce apoptosis in hepatocellular carcinoma. Cancer. 2012;118(22):5560–71.
+26. Du H, Yang W, Chen L, Shi M, Seewoo V, Wang J, et al. Role of autophagy in resistance to oxaliplatin in hepatocellular carcinoma cells. Oncol Rep. 2012 Jan;27(1):143–50.
+27. Himizu S, Takehara T, Hikita H, Kodama T, Tsunematsu H, Miyagi T, et al. Inhibition of autophagy potentiates the antitumor effect of the multikinase inhibitor sorafenib in hepatocellular carcinoma. International Journal of Cancer. 2012;131(3):548–57.
+28. Guo X, Li D, Hu F, Song J, Zhang S, Deng W, et al. Targeting autophagy potentiates chemotherapy-induced apoptosis and proliferation inhibition in hepatocarcinoma cells. Cancer Letters. 2012 Jul 28;320(2):171–9.
+29. Guo X, Li D, Sun K, Wang J, Liu Y, Song J, et al. Inhibition of autophagy enhances anticancer effects of bevacizumab in hepatocarcinoma. J Mol Med (Berl). 2013 Apr;91(4):473–83.
+30. Gao L, Song J, Zhang J, Zhao X, Zhao Q, Sun K, et al. Chloroquine Promotes the Anticancer Effect of TACE in a Rabbit VX2 Liver Tumor Model. Int J Biol Sci. 2013 Mar 28;9(4):322–30.
+31. Chang Z, Shi G, Jin J, Guo H, Guo X, Luo F, et al. Dual PI3K/mTOR inhibitor NVP-BEZ235-induced apoptosis of hepatocellular carcinoma cell lines is enhanced by inhibitors of autophagy. Int J Mol Med. 2013 Jun;31(6):1449–56.
+32. Yuan H, Li A-J, Ma S-L, Cui L-J, Wu B, Yin L, et al. Inhibition of autophagy signiﬁcantly enhances combination therapy with sorafenib and HDAC inhibitors for human hepatoma cells. World J Gastroenterol. 2014 May 7;20(17):4953–62.
+33. Tong Y, Huang H, Pan H. Inhibition of MEK/ERK activation attenuates autophagy and potentiates pemetrexed-induced activity against HepG2 hepatocellular carcinoma cells. Biochem Biophys Res Commun. 2015 Jan 2;456(1):86–91.
+34. Zhang N, Xie H, Lu W, Li F, Li J, Guo Z. Chloroquine sensitizes hepatocellular carcinoma cells to chemotherapy via blocking autophagy and promoting mitochondrial dysfunction. Int J Clin Exp Pathol. 2017 Sep 1;10(9):10056–65.
+35. Pérez-Hernández M, Arias A, Martínez-García D, Pérez-Tomás R, Quesada R, Soto-Cerrato V. Targeting Autophagy for Cancer Treatment and Tumor Chemosensitization. Cancers (Basel). 2019 Oct 19;11(10):1599.
+36. Gao M, Yeh PY, Lu Y-S, Hsu C-H, Chen K-F, Lee W-C, et al. OSU-03012, a novel celecoxib derivative, induces reactive oxygen species-related autophagy in hepatocellular carcinoma. Cancer Res. 2008 Nov 15;68(22):9348–57.
+37. Liu Y-L, Yang P-M, Shun C-T, Wu M-S, Weng J-R, Chen C-C. Autophagy potentiates the anti-cancer effects of the histone deacetylase inhibitors in hepatocellular carcinoma. Autophagy. 2010 Nov;6(8):1057–65.
+38. Wang N, Pan W, Zhu M, Zhang M, Hao X, Liang G, et al. Fangchinoline induces autophagic cell death via p53/sestrin2/AMPK signalling in human hepatocellular carcinoma cells. Br J Pharmacol. 2011 Sep;164(2b):731–42.
+39. Li P, Du Q, Cao Z, Guo Z, Evankovich J, Yan W, et al. Interferon-gamma induces autophagy with growth inhibition and cell death in human hepatocellular carcinoma (HCC) cells through interferon-regulatory factor-1 (IRF-1). Cancer Lett. 2012 Jan 28;314(2):213–22.
+40. Yu H-C, Lin C-S, Tai W-T, Liu C-Y, Shiau C-W, Chen K-F. Nilotinib Induces Autophagy in Hepatocellular Carcinoma through AMPK Activation. J Biol Chem. 2013 Jun 21;288(25):18249–59.
+41. Hu M, Huang H, Zhao R, Li P, Li M, Miao H, et al. AZD8055 induces cell death associated with autophagy and activation of AMPK in hepatocellular carcinoma. Oncol Rep. 2014 Feb;31(2):649–56.
+42. Chen Y-J, Chi C-W, Su W-C, Huang H-L. Lapatinib induces autophagic cell death and inhibits growth of human hepatocellular carcinoma. Oncotarget. 2014 Jul 15;5(13):4845–54.
+43. Shi Y, Song Q, Hu D, Zhuang X, Yu S, Teng D. Oleanolic acid induced autophagic cell death in hepatocellular carcinoma cells via PI3K/Akt/mTOR and ROS-dependent pathway. Korean J Physiol Pharmacol. 2016 May;20(3):237–43.
+44. Han B, Yu Y-Q, Yang Q-L, Shen C-Y, Wang X-J. Kaempferol induces autophagic cell death of hepatocellular carcinoma cells via activating AMPK signaling. Oncotarget. 2017 Sep 16;8(49):86227–39.
+45. Leu Y-S, Chen Y-J, Chen C-C, Huang H-L. Induction of Autophagic Death of Human Hepatocellular Carcinoma Cells by Armillaridin from Armillaria mellea. Am J Chin Med. 2019;47(6):1365–80.
+46. Kim SY, Hwangbo H, Kim MY, Ji SY, Lee H, Kim G-Y, et al. Coptisine induces autophagic cell death through down-regulation of PI3K/Akt/mTOR signaling pathway and up-regulation of ROS-mediated mitochondrial dysfunction in hepatocellular carcinoma Hep3B cells. Arch Biochem Biophys. 2021 Jan 15;697:108688.
+47. Chen C-L, Tseng Y-W, Wu J-C, Chen G-Y, Lin K-C, Hwang S-M, et al. Suppression of hepatocellular carcinoma by baculovirus-mediated expression of long non-coding RNA PTENP1 and MicroRNA regulation. Biomaterials. 2015 Mar 1;44:71–81.
+48. Go D-H, Lee YG, Lee D-H, Kim J-A, Jo I-H, Han YS, et al. 3-Decylcatechol induces autophagy-mediated cell death through the IRE1α/JNK/p62 in hepatocellular carcinoma cells. Oncotarget. 2017 May 9;8(35):58790–800.
+49. Yao C, Liu B-B, Qian X-D, Li L-Q, Cao H-B, Guo Q-S, et al. Crocin induces autophagic apoptosis in hepatocellular carcinoma by inhibiting Akt/mTOR activity. Onco Targets Ther. 2018;11:2017–28.
+50. Hu P, Cheng B, He Y, Wei Z, Wu D, Meng Z. Autophagy suppresses proliferation of HepG2 cells via inhibiting glypican-3/wnt/β-catenin signaling. Onco Targets Ther. 2018 Jan 4;11:193–200.
+51. Pant K, Saraya A, Venugopal SK. Oxidative stress plays a key role in butyrate-mediated autophagy via Akt/mTOR pathway in hepatoma cells. Chemico-Biological Interactions. 2017 Aug 1;273:99–106.
+52. Ren Z, Li A, Jiang J, Zhou L, Yu Z, Lu H, et al. Gut microbiome analysis as a tool towards targeted non-invasive biomarkers for early hepatocellular carcinoma. Gut. 2019 Jun;68(6):1014–23.
+53. Murugan S, Amaravadi RK. Methods for Studying Autophagy Within the Tumor Microenvironment. Adv Exp Med Biol. 2016;899:145–66.
+54. Barth S, Glick D, Macleod KF. Autophagy: assays and artifacts. J Pathol. 2010 Jun;221(2):117–24.
+55. Mauthe M, Orhon I, Rocchi C, Zhou X, Luhr M, Hijlkema K-J, et al. Chloroquine inhibits autophagic flux by decreasing autophagosome-lysosome fusion. Autophagy. 2018 Jul 20;14(8):1435–55.
+56. Kucharewicz K, Dudkowska M, Zawadzka A, Ogrodnik M, Szczepankiewicz AA, Czarnocki Z, et al. Simultaneous induction and blockade of autophagy by a single agent. Cell Death & Disease. 2018 Mar 2;9(3):1–15.
+57. Gonzalez P, Mader I, Tchoghandjian A, Enzenmüller S, Cristofanon S, Basit F, et al. Impairment of lysosomal integrity by B10, a glycosylated derivative of betulinic acid, leads to lysosomal cell death and converts autophagy into a detrimental process. Cell Death Differ. 2012 Aug;19(8):1337–46.
+58. Ren Z, Li A, Jiang J, Zhou L, Yu Z, Lu H, et al. Gut microbiome analysis as a tool towards targeted non-invasive biomarkers for early hepatocellular carcinoma. Gut. 2019 Jun; 68(6):1014–23.
+59. Mei L, Chen Y, Wang Z, Wang J, Wan J, Yu C, et al. Synergistic anti-tumour effects of tetrandrine and chloroquine combination therapy in human cancer: a potential antagonistic role for p21. Br J Pharmacol. 2015 May;172(9):2232–45.
+60. Wang F, Gómez‐Sintes R, Boya P. Lysosomal membrane permeabilization and cell death. Traffic. 2018;19(12):918–31.
+
+
