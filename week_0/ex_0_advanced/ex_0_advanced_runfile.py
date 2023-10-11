@@ -26,5 +26,5 @@ print("G Count:", count_dna(dna)[2])
 print("T Count:", count_dna(dna)[3])
 print("GC Content:", gc_content, '%')
 
-#done
+#donee
 
