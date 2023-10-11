@@ -11,7 +11,7 @@ if x.isdigit() and y.isdigit() and t.isdigit() and y > x:
 
 
     a = math.log(int(y)) - math.log(int(x))/ int(t)
-    print("Microbial growth is ", round(a,2))
+    print("Microbial growth is ", round(a, 2))
 
 else:
     print("Please enter only integer values and ensure the final count is greater than the initial count of cells")
