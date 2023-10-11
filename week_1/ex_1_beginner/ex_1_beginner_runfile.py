@@ -16,7 +16,7 @@ for index, population in enumerate (MBPopCount):
 
 
 #finding days where microbial population exceeds 200
-for i in range (len(MBPopCount)):
+for i in range(len(MBPopCount)):
       popbyday = MBPopCount[i]
       if popbyday < 200:
              continue
