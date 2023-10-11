@@ -2,6 +2,11 @@ Advanced Homework Assignments week 1 (2 points):
 
 Handling text file input/output, dictionaries with lists as values, and advanced string manipulation:
 
+looking at 60 diff references on 2 diff lists
+we want to iterate through all and check the differences between then (use the set and interaction function!!!)
+you also want to turn all of the data in the file into a dictionary. iterate through all of them, and then if they are the say GOOD and iterate into a certain list
+have a separate list for
+
 -Your colleague has for you two text files containing a list of 60 references for a manuscript, and each reference must
         be identical. You notice that she has been searching for differences between the two files by hand, and you feel
         bad since she has been at it all day. You try giving commands for ChatGPT to execute this task, but since they
