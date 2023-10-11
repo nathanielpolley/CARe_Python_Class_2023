@@ -6,5 +6,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (CARe_Python_Class_2023)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="week_2" />
   </component>
 </module>

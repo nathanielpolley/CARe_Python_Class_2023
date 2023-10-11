@@ -1,0 +1,10 @@
+[] list= mutable
+() tuple= non-mutable
+interpreter vs compiler
+interpreter= line by line reading of a code
+compiler= a complete run of the entire programme in any language.
+
+Exam= 30 Q's (12-18 Nov)
+
+Dictionaries= {} has the colon
+for loops.
