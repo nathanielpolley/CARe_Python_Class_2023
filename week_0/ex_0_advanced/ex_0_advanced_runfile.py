@@ -17,6 +17,7 @@ def count_dna (dna):
 gc_content = (count_dna(dna)[1]+count_dna (dna)[2]) /  s_len(dna) * 100
 
 
+
 print("Sequence Length:", s_len(dna))
 print("A Count:", count_dna(dna)[0])
 print("C Count:", count_dna(dna)[1])
