@@ -10,3 +10,9 @@ def GrowthRate(initial_count, final_count, time):
 
 result = GrowthRate(initial_count, final_count, time)
 print('Growth Rate:', result)
+
+
+
+
+
+
