@@ -1,1 +1,30 @@
 Copy and paste output of ex_1_beginner_runfile.py below:
+#YOUR CODE FOR EX_1 BEGINNER HERE
+
+# Define a list of microbial population counts for five consecutive days
+MicrobPop = []
+Up =[]
+NbDays = 6
+for Day in range(1, NbDays):
+    Pop = int(input("Enter the population number for day %d : "%(Day)))
+    MicrobPop.append(Pop)
+    if Pop > 200 :
+        Up.append(Day)
+
+# Calculating the average population
+Average = sum(MicrobPop) / len(MicrobPop)
+print(f"Average population count: {Average}")
+
+# Calculating the maximum population
+MaxPop = max(MicrobPop)
+print(f"Maximum population count: {MaxPop}")
+
+# Calculating the minimum population
+MinPop = min(MicrobPop)
+print(f"Minimum population count: {MinPop}")
+
+# Print the final list
+print("The Microbial population for each day: ",MicrobPop)
+
+# Print the days that exceed a pop of 200
+print("The day that exceed a population of 200 are: ",Up)

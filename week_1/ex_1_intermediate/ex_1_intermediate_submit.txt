@@ -1,1 +1,29 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+
+# I defined the initial dictionary
+species = {"Bacteria": 20, "Archaea": 15, "Fungi": 10}
+
+# Loop to calculate and show the number of total samples
+samples = sum(species.values())
+print(f"Total samples: {samples}")
+
+# Function to add a new item to the dictionary or increase its count if it doesn't exist
+def add(species_dict, name):
+    if name in species_dict:
+        species_dict[name] += 1
+    else:
+        species_dict[name] = 1
+
+while True:
+    new= input("Enter a new species name (or 'stop' to quit):\n")
+    if new.lower() == 'stop':
+        break
+    else:
+        add(species, new)
+
+# To test if each species have a value greater than 15
+species_greater_than_15 = [species for species, count in species.items() if count > 15]
+print(f"Species with sample counts greater than 15: {species_greater_than_15}")
+
+# Show the updated dict
+print("Updated Microbial Species Dictionary:\n",species)
