@@ -9,7 +9,7 @@ def Sequence() :
     DNA_letters = "ATGC"
     count = 0
     for letter in DNA :
-        if DNA_letters.find(letter) == -1:
+        if DNA_letters.find(letter) == -1 :
             count = count + 1
     if count > 0:
         print("invalid input, sequence could only contain the following letters (a,t,c,g)")
