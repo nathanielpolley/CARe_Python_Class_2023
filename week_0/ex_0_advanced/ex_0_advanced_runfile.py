@@ -3,45 +3,18 @@
 DNA_Seq = input("Enter your DNA Sequence Here: ")
 
 
-#find length of given DNA Sequence
-counter = 0
-for i in DNA_Seq:
-    counter += 1
-    length = len(DNA_Seq)
-    print(length)
+#Alternative to using multiple for lopps!!!! so great thanks!
+from collections import Counter
+counter = Counter(DNA_Seq)
+counter['A'], counter['T'], counter['C'], counter['G'] #gives me the exact # of specific bases!
 
+#OR
+adenine = counter['A']
+thymine = counter['T']
+guanine = counter['G']
+cytosine = counter['C']
 
-#find number of adenines
-counterA = 0
-for i in DNA_Seq:
-    if i == 'A':
-        counterA += 1
-print(counterA)
-print("Adenine found")
-
-#find number of guanines
-counterG = 0
-for i in DNA_Seq:
-    if i == 'G':
-        counterG += 1
-print(counterG)
-print("Guanine found!")
-
-#find number of thymines
-counterT = 0
-for i in DNA_Seq:
-    if i == 'T':
-        counterT += 1
-print(counterT)
-print("Thymine found!")
-
-#find number of cytosines
-counterC = 0
-for i in DNA_Seq:
-    if i == 'C':
-        counterC += 1
-print(counterC)
-print("Cytosine found!")
+print(adenine, thymine, guanine, cytosine)
 
 #find GC content
 
