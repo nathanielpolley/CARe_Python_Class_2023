@@ -8,14 +8,41 @@
 import math
 
 # start loop to repeatedly ask for inputs until they are all correct
+
 while True:
     # Ask for the initial and final cell counts, as well as time elapsed
-    initial = input("Enter the initial cell count: ")
-    final = input("Enter the final cell count: ")
-    time = input("Enter the time elapsed: ")
+    while True:
+        try:
+            initial = int(input("Enter the initial cell count: "))
+            if initial <= 0:
+                print("Please enter a value greater than 0.")
+            else:
+                break
+        except ValueError:
+            print("Please enter a valid integer.")
+
+    while True:
+        try:
+            final = int(input("Enter the final cell count: "))
+            if final <= 0 or final < initial:
+                print("Please enter a final count value greater than 0 and larger than the initial count value.")
+            else:
+                break
+        except ValueError:
+            print("Please enter a valid integer.")
+
+    while True:
+        try:
+            time = int(input("Enter the time elapsed: "))
+            if time <= 0:
+                print("Please enter a value greater than 0.")
+            else:
+                break
+        except ValueError:
+            print("Please enter a valid integer.")
 
     # Check if the inputs are valid. If they are not valid then program will ask again for the inputs
-    if (final > initial) and initial.isdigit() and final.isdigit() and time.isdigit():
+    if (final > initial):
         # Calculates growth rate and prints out result
         initial = int(initial)
         final = int(final)
