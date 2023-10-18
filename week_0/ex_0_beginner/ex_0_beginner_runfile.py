@@ -1,5 +1,6 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"Hello i'm Hugo, i would like to be a be a cancer researcher  ")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"I think it was during camping")
+
