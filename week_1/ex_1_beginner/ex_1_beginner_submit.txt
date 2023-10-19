@@ -1,1 +1,8 @@
-Copy and paste output of ex_1_beginner_runfile.py below:
+/usr/local/bin/python3.11 /Users/mmt01tricaud/PycharmProjects/CARe_Python_Class_20231/week_1/ex_1_beginner/ex_1_beginner_runfile.py
+Average population: 160.0
+Maximum population: 300
+Minimum population: 50
+Days with a population greater than 200:
+Day 4
+
+Process finished with exit code 0

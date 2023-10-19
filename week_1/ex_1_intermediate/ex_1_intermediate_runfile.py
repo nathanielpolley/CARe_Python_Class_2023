@@ -1,32 +1,42 @@
-# Initialize dictionaries to store references from the two files
-# Key: Line number, Value: Reference text without whitespaces
-ref1_dict = {}  # Creates an empty dictionary to hold references from the first file
-ref2_dict = {}  # Creates an empty dictionary to hold references from the second file
+# Define a dictionary to hold microbial species and their sample counts.
+# Key: Species name, Value: Number of samples collected for that species
+microbial_species = {"Bacteria": 20, "Archaea": 15, "Fungi": 10}
 
-# Initialize a dictionary to keep track of the comparison status
-# Key: Line number, Value: List containing either 'GOOD' or differences
-status = {}  # Creates an empty dictionary to store the results of the comparison
-for i in range(1, 61):  # Goes through numbers 1-60 to populate status dictionary keys
-    status[str(i)] = []  # Sets the value of each key to an empty list to store status info
+# Calculate the total number of samples collected across all species.
+# Use the 'values' method to get the sample counts and sum them up.
+total_samples = sum(microbial_species.values())
+print(f"Total number of samples collected: {total_samples}")
 
-# Open both files and read them line by line
-with open("references_1.txt", "r") as f1, open("references_2.txt", "r") as f2:
-    for i, (line1, line2) in enumerate(zip(f1, f2), 1):  # Reads both files line by line
-        # Remove any trailing and internal whitespaces
-        ref1_dict[str(i)] = line1.strip().replace(" ", "")  # Populates the first dictionary with cleaned-up text from the first file
-        ref2_dict[str(i)] = line2.strip().replace(" ", "")  # Populates the second dictionary with cleaned-up text from the second file
+# Use list comprehension to filter species with sample count greater than 15.
+# 'items' method gives us key-value pairs to loop through.
+species_gt_15 = [species for species, count in microbial_species.items() if count > 15]
+print(f"Species with more than 15 samples: {species_gt_15}")
 
-# Loop through the dictionaries to compare each line
-for key in ref1_dict:  # Goes through each key (which is the line number) in the first dictionary
-    if ref1_dict[key] == ref2_dict[key]:  # Compares the values (text content) of both dictionaries for each line
-        status[key].append("GOOD")  # Appends "GOOD" to the list value of the corresponding key in the 'status' dictionary
+
+# Function to add a new species to the dictionary.
+# Takes the existing species dictionary and a new species name as arguments.
+def add_species(species_dict, new_species):
+    # Check if the species already exists in the dictionary.
+    if new_species in species_dict:
+        # If exists, increment the sample count by 1.
+        species_dict[new_species] += 1
     else:
-        # Here, we're comparing each character of the strings to find differences
-        differences = [char1 for char1, char2 in zip(ref1_dict[key], ref2_dict[key]) if char1 != char2]  # Finds and stores differences in a list
-        status[key].extend(differences)  # Adds those differences to the 'status' dictionary for that line number
+        # If not, add the species to the dictionary with initial sample count of 1.
+        species_dict[new_species] = 1
 
-# Write the results to a new text file
-with open("ex_1_advanced_submit.txt", "w") as output:  # Opens a new file to write the results
-    for key, value in status.items():  # Goes through each item in the 'status' dictionary
-        output.write(f"{key} : {', '.join(value)}\n")  # Writes the status result for each line in the output file
 
+# Loop to continuously add new species.
+# The loop will run until the user decides to stop.
+while True:
+    # Prompt the user for a new microbial species name.
+    new_species = input("Enter a new microbial species (or type 'stop' to exit): ")
+
+    # Check if the user wants to stop adding new species.
+    if new_species.lower() == "stop":
+        break
+
+    # Use the function to add the new species to the dictionary.
+    add_species(microbial_species, new_species)
+
+    # Display the updated dictionary.
+    print(microbial_species)
