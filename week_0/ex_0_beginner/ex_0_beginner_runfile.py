@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"I'm Pankaj Garg, an Indian international student currently pursuing my M1 degree at UT3 through the CARe program. My educational background includes a bachelor's degree in biotechnology and my first master's degree in human genomics. My career aspirations involve acquiring proficiency in programming languages to enhance the utility of my first master's degree and CARe program as a stepping stone towards my future pursuit of a doctoral degree.")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"The last time I was without access to a computer was during a recent camping trip over the weekend. While I'm well aware that devices like microwave ovens and thermostats are essentially embedded computers, my camping experience was a deliberate break from all forms of digital technology. During that time, I disconnected from screens and gadgets, choosing instead to immerse myself in the natural world. It was a welcome escape and a chance to appreciate the beauty of the outdoors without any technological distractions.")
