@@ -59,5 +59,3 @@ References
 58. Ren Z, Li A, Jiang J, Zhou L, Yu Z, Lu H, et al. Gut microbiome analysis as a tool towards targeted non-invasive biomarkers for early hepatocellular carcinoma. Gut. 2019 Jun; 68(6):1014–23.
 59. Mei L, Chen Y, Wang Z, Wang J, Wan J, Yu C, et al. Synergistic anti-tumour effects of tetrandrine and chloroquine combination therapy in human cancer: a potential antagonistic role for p21. Br J Pharmacol. 2015 May;172(9):2232–45.
 60. Wang F, Gómez‐Sintes R, Boya P. Lysosomal membrane permeabilization and cell death. Traffic. 2018;19(12):918–31.
-
-

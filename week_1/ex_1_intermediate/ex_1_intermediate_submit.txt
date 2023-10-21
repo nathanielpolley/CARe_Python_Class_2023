@@ -1,1 +1,21 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+
+A total of  45  samples have been collected from all species.
+List of species with more than 15 collected samples:  ['Bacteria']
+Do you want to register a species sample? (y/n)
+y
+Understood.
+Please enter your species: Fungi
+Fungi  found within dictionary, adding one collected sample to species...
+There are now  11  samples of  Fungi
+Do you want to register a species sample? (y/n)
+y
+Understood.
+Please enter your species: Chthulhu
+Chthulhu  NOT found within dictionary, creating a new entry...
+There are now  1  samples of  Chthulhu
+Do you want to register a species sample? (y/n)
+n
+Terminating program.
+
+Process finished with exit code 0
