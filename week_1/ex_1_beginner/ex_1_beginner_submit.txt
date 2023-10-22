@@ -1,1 +1,25 @@
 Copy and paste output of ex_1_beginner_runfile.py below:
+
+#First we define a function "stats" that will calculate the average population count and print the max and min population count
+
+def stats(population_counts):
+    total_population = sum(population_counts)
+    average_population = total_population/ len(population_counts)
+    max_population = max(population_counts)
+    min_population = min(population_counts)
+    print("Average population count: ",average_population)
+    print("Maximum population count: ",max_population)
+    print("Minimum population count: ",min_population)
+
+#we then enter our population count data and apply to it the function that we defined above.
+
+population_counts = [100, 200, 150, 300, 50]
+print(stats(population_counts))
+
+#we create a loop using the function enumerate, this function will give the value (called here "population count") aswell as the index (called here "x") corresponding to that value. We setup the starting index as 1 (as day 1).
+# If the population count is above 200, the index will be printed (here day 4) and the loop continue.
+
+print("Days when the population exceeds 200: ")
+for x,population_count in enumerate(population_counts, start=1):
+    if population_count>200:
+        print("Day ", x)

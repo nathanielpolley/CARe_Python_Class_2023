@@ -1,1 +1,34 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+
+#first we define a dictionary of species with counts
+microbial_species = {"Bacteria": 20, "Archaea": 15, "Fungi": 10}
+
+#create a function that add up the species entries counts. Or define a new count starting at 1 if the species is new. Species dictionary being at first microbial_species
+def add_species_to_dictionary(species_dictionary, new_species):
+    if new_species in species_dictionary:
+        species_dictionary[new_species] +=1
+    else:
+        species_dictionary[new_species] = 1
+
+#loop asking user to enter a species or end the loop. The species entered will add to dictionary names and counts.
+# I thought this step and the one above made more sense added first into the code as the user will first enter his species and then see the result.
+while True:
+    new_species=input ("Enter a species name or 'end' if you want to stop adding species: ")
+    if new_species== 'end':
+        break
+    add_species_to_dictionary(microbial_species,new_species)
+
+#printing species' names and samples' count from the dictionary
+for species, count in microbial_species.items():
+    print(f"{species}: {count} samples")
+
+#adding up all samples counts
+total_samples= sum(microbial_species.values())
+print("Total number of samples from all species combined: ",  total_samples)
+
+#asking to print species from dictionary with count over 15
+samples_over_15=[species for species, count in microbial_species.items() if count >15 ]
+print ("microbial species with sample counts greater than 15: ", samples_over_15)
+
+#printing the dictionary with samples count
+print("Microbial species dictionary: ",microbial_species)
