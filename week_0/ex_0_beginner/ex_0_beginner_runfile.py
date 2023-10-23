@@ -1,5 +1,6 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"I am student in CARe's master. I want to learn a programming language to analyze a huge amount of data")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"mountains")
+
