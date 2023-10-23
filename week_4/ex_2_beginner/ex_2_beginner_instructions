@@ -1,0 +1,22 @@
+Homework Assignment 2 : Beginner Level - FASTA File Parsing with Biopython
+
+Objective:
+Introduce students to basic file handling, parsing of FASTA format files using Biopython, and data extraction into a CSV file.
+
+Tasks:
+
+1. Create a Python script that reads a FASTA file containing DNA sequences (sequences_beginner.fasta). The file should have multiple sequence entries.
+
+2. Write a class FastaParser with a method parse_file that reads the FASTA file using Biopython's SeqIO module and extracts the following information for each sequence:
+Sequence name
+Sequence description
+Sequence length
+GC content (percentage of Gs and Cs)
+Molecular weight of the sequence
+
+3. Use a for loop to iterate through the sequences and print the sequence names, descriptions, lengths, GC content, and molecular weights to the console.
+
+4. Modify the FastaParser class to write the sequence names, descriptions, lengths, GC content, and molecular weights to a CSV file named "ex_2_beginner_submit.csv".
+
+Submission:
+Submit the Python script, the CSV file containing the specified data points, and any relevant comments explaining the code.
