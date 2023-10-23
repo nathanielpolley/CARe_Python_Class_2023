@@ -1,1 +1,4 @@
-Copy and paste output of ex_1_beginner_runfile.py below:
+Average population count: 160.0
+Maximum population count: 300
+Minimum population count: 50
+Days when population exceeds 200: 4Copy and paste output of ex_1_beginner_runfile.py below:
