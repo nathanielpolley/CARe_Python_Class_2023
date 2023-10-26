@@ -1,1 +1,5 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+/usr/local/bin/python3.11 /Users/mmt01tricaud/PycharmProjects/CARe_Python_Class_20231/week_1/ex_1_intermediate/ex_1_intermediate_runfile.py
+Total number of samples collected: 45
+Species with more than 15 samples: ['Bacteria']
+Enter a new microbial species (or type 'stop' to exit):

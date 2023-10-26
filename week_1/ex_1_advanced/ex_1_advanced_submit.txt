@@ -1,0 +1,79 @@
+1 : GOOD
+2 : GOOD
+3 : GOOD
+4 : GOOD
+5 : GOOD
+6 : GOOD
+7 : GOOD
+8 : GOOD
+9 : GOOD
+10 : GOOD
+11 : GOOD
+12 : GOOD
+13 : GOOD
+14 : GOOD
+15 : GOOD
+16 : GOOD
+17 : GOOD
+18 : GOOD
+19 : GOOD
+20 : GOOD
+21 : GOOD
+22 : GOOD
+23 : GOOD
+24 : GOOD
+25 : GOOD
+26 : GOOD
+27 : GOOD
+28 : GOOD
+29 : GOOD
+30 : GOOD
+31 : GOOD
+32 : GOOD
+33 : GOOD
+34 : GOOD
+35 : GOOD
+36 : GOOD
+37 : GOOD
+38 : GOOD
+39 : GOOD
+40 : GOOD
+41 : GOOD
+42 : GOOD
+43 : GOOD
+44 : GOOD
+45 : GOOD
+46 : GOOD
+47 : GOOD
+48 : GOOD
+49 : GOOD
+50 : GOOD
+51 : GOOD
+52 : DIVERGENT
+  In file 1: 51. Pant K, Saraya A, Venugopal SK. Oxidative stress plays a key role in butyrate-mediated autophagy via Akt/mTOR pathway in hepatoma cells. Chemico-Biological Interactions. 2017 Aug 1;273:99–106.
+  In file 2: 51.	Pan H, Wang Y, Na K, Wang Y, Wang L, Li Z, et al. Autophagic flux disruption contributes to Ganoderma lucidum polysaccharide-induced apoptosis in human colorectal cancer cells via MAPK/ERK activation. Cell Death Dis. 2019 Jun 11;10(6):456.
+53 : DIVERGENT
+  In file 1: 52. Ren Z, Li A, Jiang J, Zhou L, Yu Z, Lu H, et al. Gut microbiome analysis as a tool towards targeted non-invasive biomarkers for early hepatocellular carcinoma. Gut. 2019 Jun;68(6):1014–23.
+  In file 2: 52.	Degtyarev M, De Mazière A, Orr C, Lin J, Lee BB, Tien JY, et al. Akt inhibition promotes autophagy and sensitizes PTEN-null tumors to lysosomotropic agents. J Cell Biol. 2008 Oct 6;183(1):101–16.
+54 : DIVERGENT
+  In file 1: 53. Murugan S, Amaravadi RK. Methods for Studying Autophagy Within the Tumor Microenvironment. Adv Exp Med Biol. 2016;899:145–66.
+  In file 2: 53.	Boya P, González-Polo RA, Casares N, Perfettini JL, Dessen P, Larochette N, et al. Inhibition of Macroautophagy Triggers Apoptosis. Mol Cell Biol. 2005 Feb;25(3):1025–40.
+55 : DIVERGENT
+  In file 1: 54. Barth S, Glick D, Macleod KF. Autophagy: assays and artifacts. J Pathol. 2010 Jun;221(2):117–24.
+  In file 2: 54.	Kanzawa T, Germano IM, Komata T, Ito H, Kondo Y, Kondo S. Role of autophagy in temozolomide-induced cytotoxicity for malignant glioma cells. Cell Death Differ. 2004 Apr;11(4):448–57.
+56 : DIVERGENT
+  In file 1: 55. Mauthe M, Orhon I, Rocchi C, Zhou X, Luhr M, Hijlkema K-J, et al. Chloroquine inhibits autophagic flux by decreasing autophagosome-lysosome fusion. Autophagy. 2018 Jul 20;14(8):1435–55.
+  In file 2: 55.	Gonzalez P, Mader I, Tchoghandjian A, Enzenmüller S, Cristofanon S, Basit F, et al. Impairment of lysosomal integrity by B10, a glycosylated derivative of betulinic acid, leads to lysosomal cell death and converts autophagy into a detrimental process. Cell Death Differ. 2012 Aug;19(8):1337–46.
+57 : DIVERGENT
+  In file 1: 56. Kucharewicz K, Dudkowska M, Zawadzka A, Ogrodnik M, Szczepankiewicz AA, Czarnocki Z, et al. Simultaneous induction and blockade of autophagy by a single agent. Cell Death & Disease. 2018 Mar 2;9(3):1–15.
+  In file 2: 56.	Murugan S, Amaravadi RK. Methods for Studying Autophagy Within the Tumor Microenvironment. Adv Exp Med Biol. 2016;899:145–66.
+58 : DIVERGENT
+  In file 1: 57. Gonzalez P, Mader I, Tchoghandjian A, Enzenmüller S, Cristofanon S, Basit F, et al. Impairment of lysosomal integrity by B10, a glycosylated derivative of betulinic acid, leads to lysosomal cell death and converts autophagy into a detrimental process. Cell Death Differ. 2012 Aug;19(8):1337–46.
+  In file 2: 57.	Pant K, Saraya A, Venugopal SK. Oxidative stress plays a key role in butyrate-mediated autophagy via Akt/mTOR pathway in hepatoma cells. Chemico-Biological Interactions. 2017 Aug 1;273:99–106.
+59 : GOOD
+60 : DIVERGENT
+  In file 1: 59. Mei L, Chen Y, Wang Z, Wang J, Wan J, Yu C, et al. Synergistic anti-tumour effects of tetrandrine and chloroquine combination therapy in human cancer: a potential antagonistic role for p21. Br J Pharmacol. 2015 May;172(9):2232–45.
+  In file 2: 59.	Barth S, Glick D, Macleod KF. Autophagy: assays and artifacts. J Pathol. 2010 Jun;221(2):117–24.
+61 : DIVERGENT
+  In file 1: 60. Wang F, Gómez‐Sintes R, Boya P. Lysosomal membrane permeabilization and cell death. Traffic. 2018;19(12):918–31.
+  In file 2: 60.	Mauthe M, Orhon I, Rocchi C, Zhou X, Luhr M, Hijlkema KJ, et al. Chloroquine inhibits autophagic flux by decreasing autophagosome-lysosome fusion. Autophagy. 2018 Jul 20;14(8):1435–55.
