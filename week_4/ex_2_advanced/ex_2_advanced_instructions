@@ -1,0 +1,42 @@
+Homework Assignment 2 : Advanced Level - FASTA File Analysis with Object Polymorphism and Protein Translation
+
+Objective:
+Introduce students to advanced object-oriented concepts, including polymorphism, and perform transcription and translation on various biological sequences, with a final goal of printing out a CSV file containing the protein translation data.
+
+Tasks:
+
+1. Create a Python script that reads a FASTA file containing DNA sequences. The file should have multiple sequence entries.
+
+2. Write a base class Sequence with the following attributes and methods:
+Attributes:
+Sequence name
+Sequence description
+Sequence data
+Methods:
+Calculate sequence length
+Calculate GC content
+Abstract methods for transcription and translation
+
+3. Create subclasses for DNASequence, RNASequence, and ProteinSequence that inherit from the Sequence class. Implement the abstract methods for transcription and translation in each subclass:
+DNASequence should transcribe to an RNA sequence.
+RNASequence should translate to a protein sequence.
+ProteinSequence should have a method to calculate molecular weight.
+
+4. Write a class FastaParser that reads the FASTA file using Biopython's SeqIO module and creates instances of the appropriate sequence type (DNA, RNA, or Protein).
+
+5. Use polymorphism within the FastaParser class to define a common method that transcribes DNA sequences into RNA sequences and translates RNA sequences into protein sequences.
+
+6. Write a for loop that processes each sequence and prints the following information to the console:
+Sequence name
+Sequence description
+DNA sequence
+Sequence length
+GC content 
+RNA transcript
+Protein translation
+Molecular weight (for Protein sequences)
+
+7. Modify the FastaParser class to write the information mentioned above to a CSV file ex_2_advanced_submission.csv.
+
+Submission:
+Submit the Python script, the CSV file containing the specified data points and protein translations, and any relevant comments explaining the code.
