@@ -1,0 +1,19 @@
+Homework Assignment 2: Intermediate Level - Object-Oriented FASTA Parsing with Biopython
+
+Objective:
+Introduce students to object-oriented programming, encapsulation, and basic inheritance using Biopython.
+
+Tasks:
+
+1. Build upon the previous assignment by creating a base class Sequence with attributes for sequence name and sequence data (e.g., DNA sequence).
+
+2. Create a subclass DnaSequence that inherits from the Sequence class. Implement a method that calculates and returns the GC content using Biopython's functions.
+
+3. Create another subclass RnaSequence that inherits from the Sequence class. Implement a method that checks if the sequence contains a start codon using Biopython's sequence analysis tools.
+
+4. Modify the FastaParser class to parse the file into a list of Sequence objects, which can be either DnaSequence or RnaSequence, utilizing Biopython.
+
+5. Write a for loop that processes each Sequence object from sequences_intermediate.fasta  and prints its name, type (DNA or RNA), and the GC content (for DNA sequences) or presence of a start codon (for RNA sequences) using Biopython functions. Write out this new information along with all previous information from ex_2_beginner to a csv file ex_2_intermediate_submit.csv
+
+Submission:
+Submit the Python script, the CSV file, and the Biopython usage in the code.
