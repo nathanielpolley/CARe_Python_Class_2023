@@ -1,44 +1,44 @@
 #YOUR CODE FOR EX_1 INTERMEDIATE HERE
 
-MBSpecies = {"Protozoa":57, "Algae":10, "Bacteria":35,"Fungi":5 } #dictionary of diff microbial species
-
-import numpy as np
-
+MBSpecies = {} #dictionary of diff microbial species
 
 # for loop to obtain total # of samples
 for i in (MBSpecies):
     total_samples = sum(MBSpecies.values())
-print(total_samples)
+print(f"Total number of samples collected: {total_samples}")
 
-#for loop to find species with counts greater than 15
+#List comprehension to obtain list of microbial species with value greater than 15
 for i in range(len(MBSpecies)):
     values_list = list(MBSpecies.values())
     newlist = values_list[i]
-    if newlist < 15:
+    if newlist < 15: #if statement to print
         continue
     else:
-        print(f"Species index {i}: {newlist}")
+        print (f"Species at index {i}, {newlist}")
 
-#add a new species
-MBSpecies = {"Protozoa":57, "Algae":10, "Bacteria":35,"Fungi":5 }
-species = input("enter species name!")
-numgrowth = int()
-counter = 0
-counter1 = MBSpecies.values()
-def add_species(species,numgrowth):
-    newspec = {species: numgrowth}
-    MBSpecies.update(newspec)
-    if newspec != MBSpecies:
-        counter = +1
+# function to keep enter new species to dictionary
+species = input("Enter species name!")
+numgrowth = int(input('value'))
+
+def add_species(MBSpecies, species, numgrowth):
+    if species in MBSpecies:
+        MBSpecies[species] += numgrowth
     else:
-        counter1 = +1
+        MBSpecies[species] = numgrowth
 
 
-#while loop
+# While loop to add new species to dictionary + print updated version!
+
 while True:
-    print("Add species please")
-    add_species
+    species = input("Enter a new species name" or "finish operation")
+    if species == MBSpecies.keys:
+        break
+    else:
+        numgrowth = int(input(f"sample count for species {species}: "))
+        add_species(MBSpecies, species, numgrowth)
 
+for species, count in MBSpecies.items():
+    print(f"{species}: {count}")
 
 
 
