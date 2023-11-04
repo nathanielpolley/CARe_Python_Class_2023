@@ -126,3 +126,4 @@ if __name__ == "__main__":
     fasta_parser = FastaParser("sequences_advanced.fasta")  # Replace with the path to your FASTA file
     fasta_parser.parse()
     fasta_parser.process_sequences()
+#done
