@@ -1,7 +1,8 @@
+#This is everything that we did in class on 09/21/2023 last week. Before sure to create your
 # Explain variables and data types
 name = "Alice"  # String
 age = 30  # Integer
-height = 5.8  # Float
+height = 5.8  # Float = a
 is_student = True  # Boolean
 
 # Basic arithmetic operations
