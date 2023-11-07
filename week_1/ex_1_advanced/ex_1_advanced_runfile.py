@@ -12,7 +12,7 @@ for i in range (len(lines)):
 my_dict = {str(index+1): value for index, value in enumerate(lines)}
 print('Here is the dictionnary for reference_1.txt'+str(my_dict))
 
-#references_2
+#references 2
 file_path_2 = 'references_2.txt'
 with open(file_path_2, 'r', encoding='utf8') as file:
     lines2 = file.readlines()
