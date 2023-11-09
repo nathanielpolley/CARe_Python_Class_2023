@@ -8,3 +8,79 @@ Exam= 30 Q's (12-18 Nov)
 
 Dictionaries= {} has the colon
 for loops.
+
+Notes: 12.10.2023
+def printAll(*args):
+    print(f"No of arguments: {len(args)}")
+    for argument in args:
+        print(argument)
+
+printAll("Horsefeather", "Adonis", "bone")
+Answer:
+No of arguments: 3
+Horsefeather
+Adonis
+bone
+
+Don't know how many inputs are given so they remain open and can intake an infinite number.
+
+
+#Another code for loops
+print(f"Before change, square, {i} {is squares [i]}")
+
+#Code for opening text files.
+
+path= "example1.txt"
+with open(path, "r") as file1:                                       #r means we're only reading the file.
+FileContent= file1.read()
+print(FileContent)
+
+print("first line: {file1.readline()}")                              # only reads the first line.
+print("second line: {file1.readline()}")
+
+i=0
+for line in file1:
+print(f"Iteration: {i}, {line}")
+i+=1                                                #abreviated iteration. Add 1 to the variable (short-hand)
+
+FileAsList = file1.readlines()                    # prints all the lines as a whole.
+print(FileAsList)                                 # \n= & \t- imp.
+# can also do= print(FileAsList[0])               # will only print the first line.
+
+
+#Writing a text:
+exmp2= "Example2.txt"
+with open(exmp2, "w") as writefile:
+writefile.write("This is line A\n")
+writefile.write("This is line B\n")
+
+pip install pandas # on local
+import pandas as pd
+
+csvPath = "TopSellingAlbums.csv"
+df = pd.read_csv(csvPath)
+print(df)
+#this is a panda dataframe.
+print(df.head())                 # returns the first 5 elements of the list
+
+x= df[["Length"]]
+print(x)                         #finds the data based on the column.
+
+x= df[["Artist", "Length", "Genre"]]
+
+print(df.iloc[0,1])                1=column and 0 is row
+print(df.loc[5,"Artist"])           #loc= string and iloc= integer call
+print(df.iloc[0:2, 0:3])                                       #splicing
+
+x = {"Name"}
+
+x = {"Name":["Rose","John","Jane","Mary"],
+"ID": [1,2,3,4],
+"Department": ["Architecture", "Software", "Design", "Infrastructure"],
+"Salary":[100000, 80000, 500000, 6000]}
+
+df= pd.DataFrame(x)
+print(df)
+
+
+

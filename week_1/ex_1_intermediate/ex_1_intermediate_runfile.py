@@ -1,22 +1,34 @@
 #YOUR CODE FOR EX_1 INTERMEDIATE HERE
-#YOUR CODE FOR EX_0 INTERMEDIATE HERE
-
 # User input
-import math
 
-x = input("Enter the initial number of cells as an integer only.")
-y = input("Enter the final number of cells as an integer only")
-t = input("Enter the amount of time in minutes")
+import pandas as pd
+
+MicrobialSpecies = ["Archaea", "Bacteria", "Fungi", "Protists", "Virus"]
+MicrobialCount = {"Archaea": 3, "Bacteria": 8, "Fungi": 12, "Protists": 11, "Virus": 12}
+
+data = {
+    'Microbial Species': ["Archaea", "Bacteria", "Fungi", "Protists", "Virus"],
+    'Microbial Count': [3, 8, 12, 11, 12]
+
+}
+
+df = pd.DataFrame(data)
+
+#prints the dictionary.
+print("DataFrame created from a dictionary:")
+print(df)
+print("\n")
+
+#counts the number of samples in the dictionary.
+final = 0
+
+for total in MicrobialCount:
+    if isinstance(total, int):
+        final += total
+
+print(total)
 
 
-#User error correction
-if x.isdigit() and y.isdigit() and t.isdigit():
-    print("Thank you")
 
- # microbial growth rate calculator
-    a = math.log(int(y)) - math.log(int(x)) / int(t)
-    a = round(a, 2)
-    print("Microbial growth is ", a)
 
-else:
-    print("Please enter only integer values")
+
