@@ -1,5 +1,5 @@
 import this
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 1 HERE")
+print("\n"+"I want to become a researcher in cancer related to neurosciences")
 
-print("\n"+"TYPE YOUR RESPONSE TO PROMPT 2 HERE")
+print("\n"+"The last time I was without a phone or computer was on vacation to enjoy! ")
