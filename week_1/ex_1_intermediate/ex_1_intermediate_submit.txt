@@ -1,1 +1,10 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+
+45 samples have been collected
+we have collected more than 15 ['Bacteria']
+Enter a new species name: Fungi
+Enter a new species name: Archea
+Enter a new species name: Archea
+Enter a new species name: Virus
+Enter a new species name:
+The new dictonnary is now {'Bacteria': 20, 'Archea': 17, 'Fungi': 11, 'Virus': 1}
