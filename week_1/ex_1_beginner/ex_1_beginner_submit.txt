@@ -1,1 +1,8 @@
 Copy and paste output of ex_1_beginner_runfile.py below:
+
+The average microbial population count is:  160
+The maximum microbial population count is:  300
+The minimum  microbial population count is:  50
+On day  3  the microbial population exceeded 200 (Note: the first day is considered day 0).
+
+Process finished with exit code 0
