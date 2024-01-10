@@ -11,5 +11,7 @@ Apply intermediate Python dictionary iteration concepts to analyze microbial div
         species to the dictionary with an initial count of 1 if the species is not already present. If the species is
         already in the dictionary, increase its count by 1.
 -Implement a while loop to continuously prompt the user for new species names to add to the dictionary until they
-        choose to stop.it the Python runfile with comments explaining each step and the results of your calculations
+        choose to stop it.
+-Print out to the console the entirety of the dictionary including the changes made by the user.
+-Please provide the Python runfile with comments explaining each step and the results of your calculations
         in the submit file.
